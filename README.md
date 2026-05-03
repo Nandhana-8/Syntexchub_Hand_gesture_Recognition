@@ -25,12 +25,19 @@ This project demonstrates how computer vision + hand tracking can be used to cre
 🖐️ Supported Gestures
 
 Gesture| Action
+
 ✊ Fist| Pause ⏸
+
 ✋ Open Palm| Play ▶
+
 👍 Thumb Up| Like 👍
+
 ☝ Index Finger| Volume Up 🔊
+
 👇 Pinky Finger| Volume Down 🔉
+
 ✌ Peace| Next Track ▶▶
+
 🤟 Rock Sign| Mute 🔇
 
 ---
