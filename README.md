@@ -46,10 +46,15 @@ Gesture| Action
 📁 Project Structure
 
 HandGestureRecognition/
+
 │── main.py          # Runs the application
+
 │── gesture.py       # Gesture detection logic
+
 │── config.py        # Action mapping
+
 │── requirements.txt # Dependencies
+
 │── README.md        # Documentation
 
 ---
